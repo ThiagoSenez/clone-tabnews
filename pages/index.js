@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Valeu pelo curso ,bunda mole</h1>
+    return <h2>Valeu pelo curso ,bunda mole!</h2>
 }
 
 export default Home;
