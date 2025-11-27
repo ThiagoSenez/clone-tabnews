@@ -1,2 +1,3 @@
 # clone-tabnews
-implementacao do tabnews para estudos 
+
+implementacao do tabnews para estudos
